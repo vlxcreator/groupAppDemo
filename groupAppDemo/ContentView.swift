@@ -27,7 +27,7 @@ struct ContentView: View {
                     Spacer()
                     Text("GIRLS WHO CODE")
                         .foregroundColor(Color.blue)
-                    
+                    //main title
                 }
                 
                 Text("CEO of Girls Who Code,an international non-profit organization working to close the gender gap in technology that has served over 450,000 students to date.")
